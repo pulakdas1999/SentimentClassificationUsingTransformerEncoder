@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/996d4136-33e0-4f77-9fed-9b77d5491980)
-" alt="Description of the image" width="400">
+  <img src=![image](https://github.com/user-attachments/assets/996d4136-33e0-4f77-9fed-9b77d5491980) width="400">
 </p>
 
 # Sentiment Classification with Transformer Encoder on IMDB Dataset

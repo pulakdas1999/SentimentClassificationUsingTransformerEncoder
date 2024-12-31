@@ -18,3 +18,5 @@ This project implements a **Transformer Encoder Architecture** using **Keras** t
 Feel free to clone, explore, and enhance this project to deepen your understanding of transformers in NLP!
 
 ![image](https://github.com/user-attachments/assets/996d4136-33e0-4f77-9fed-9b77d5491980)
+
+Dataset info: https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews

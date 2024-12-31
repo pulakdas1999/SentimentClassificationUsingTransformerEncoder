@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=![image](https://github.com/user-attachments/assets/996d4136-33e0-4f77-9fed-9b77d5491980) width="400">
-</p>
-
 # Sentiment Classification with Transformer Encoder on IMDB Dataset
 
 This project implements a **Transformer Encoder Architecture** using **Keras** to classify movie reviews from the **IMDB dataset** as positive or negative. The model leverages the power of transformer-based attention mechanisms to efficiently process and analyze textual data, delivering robust sentiment classification results.
@@ -20,3 +16,5 @@ This project implements a **Transformer Encoder Architecture** using **Keras** t
 ---
 
 Feel free to clone, explore, and enhance this project to deepen your understanding of transformers in NLP!
+
+![image](https://github.com/user-attachments/assets/996d4136-33e0-4f77-9fed-9b77d5491980)

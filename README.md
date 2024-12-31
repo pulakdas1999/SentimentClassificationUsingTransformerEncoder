@@ -1,5 +1,3 @@
-# SentimentClassificationUsingTransformerEncoder
-
 # Sentiment Classification with Transformer Encoder on IMDB Dataset
 
 This project implements a **Transformer Encoder Architecture** using **Keras** to classify movie reviews from the **IMDB dataset** as positive or negative. The model leverages the power of transformer-based attention mechanisms to efficiently process and analyze textual data, delivering robust sentiment classification results.
